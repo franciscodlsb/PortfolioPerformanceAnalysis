@@ -1,0 +1,1 @@
+Scripts to visualize, analize and build models of my own investments from data extracted from portfolio performance (https://www.portfolio-performance.info/).
